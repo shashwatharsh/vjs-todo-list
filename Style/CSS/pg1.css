@@ -10,7 +10,10 @@
     max-width: 80%;
     text-align: center;
 }
-
+.headingInTable{
+    font-size:x-large;
+    font-weight: 500;
+}
 #edit-box {
     display: none;
     max-width: 80%;
